@@ -1,0 +1,10 @@
+let x = 5;
+let y = 6;
+x += y;
+console.log(x);
+x -= y;
+console.log(x);
+x /= y;
+console.log(x);
+x *= y;
+console.log(x);

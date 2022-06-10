@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="us-en">
+<head>
+<title>My website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div id="demo">
+<p>Let AJAX change this text.</p>
+<button type="button" onclick="loadDoc()">Change Content</button>
+</div>
+
+<script>
+function loadDoc() {
+  const xhttp = new XMLHttpRequest();
+  xhttp.onload = function() {
+    document.getElementById("demo").innerHTML = this.responseText;
+  }
+  xhttp.open("GET", "https://www.w3schools.com/js/ajax_info.txt");
+  xhttp.send();
+}
+</script>
+</script>
+</body>
+</html>

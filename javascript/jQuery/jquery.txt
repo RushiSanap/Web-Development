@@ -1,0 +1,11 @@
+for running the jquery we must have to import the jquery API's
+using the src attribute of the script tag
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+</script>
+It is compulsory for running the jquery in script file
+
+$(document).ready(function() {
+	//code to be write here
+});
+is these way we have define the self executing function
+when we have to run the jquery in javascript

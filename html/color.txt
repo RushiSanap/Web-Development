@@ -1,0 +1,32 @@
+color of text or background:
+1)direct name of the color
+2)rgb or rgba value
+  rgb(red, green, blue) 
+
+  color	range
+  red	0-255
+  green 0-255
+  blue  0-255
+  alpha 0-1
+
+  rgba is an extension of rgb values 
+  rgba(red, green, blue, alpha)
+
+3)hex values -> #RRGGBB
+  e.g.#ff0000
+  consist of 3 bytes
+  1st byte-red 
+  2nd byte-green 
+  3rd byte-blue
+
+4)hsl or hsla values
+  hsl(hue, saturation, lightness)
+  hsla(hue, saturation, lightness, alpha)
+  
+  property	range
+  hue		0-360
+  saturation    0-100%
+  lightness	0-100%
+  alpha		0-1
+  
+  alpha represents the opacity

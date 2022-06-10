@@ -1,0 +1,4 @@
+single-line comment:
+// or #
+multiline-comment:
+/*text inside comment*/

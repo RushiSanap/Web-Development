@@ -1,0 +1,4 @@
+table->for creating the table
+tr->for rows of the table
+th->for the headers of the table
+td->for the data cells of the table

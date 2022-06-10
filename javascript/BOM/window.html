@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="us-en">
+<head>
+<title>My website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<button type="button" id="button" onclick="myfunction()">click me to close this window</button><br><br>
+<button type="button" onclick="myfunction1()">click me to open new window</button>
+<script>
+let l = window.innerHeight;
+let h = window.innerWidth;
+function myfunction() {
+	window.close();
+}
+
+function myfunction1() {
+	window.open();
+}
+</script>
+</body>
+</html>

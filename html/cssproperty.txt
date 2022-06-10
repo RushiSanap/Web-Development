@@ -1,0 +1,19 @@
+#syntax for setting the style attribiute for particular element
+<tagname style="property:value;">content</tagname>
+
+background-color -> set the background color
+<h1 style="background-color:powderblue;">this is heading</h1>
+
+color -> set the text color
+<h1 style="color:red;">this is heading</h1>
+
+font-family -> defines the font to be usede.g.verdana, courier etc.
+<h1 style="font-family:verdana;">this is heading</h1>
+
+font-size -> denfines the text size
+e.g. <h1 style="font-size:300%;">This is heading</h1>
+
+text-align -> define the horizontal text alignment 
+<h1 style="text-align:center;">centered heading</h1>
+
+border -> defines the border around 

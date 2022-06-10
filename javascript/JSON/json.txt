@@ -1,0 +1,3 @@
+method		uses
+parse		convert JSON string into a javascript object 
+stringify	convert javascript objects inot a JSON string

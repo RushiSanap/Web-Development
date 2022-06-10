@@ -1,0 +1,3 @@
+[abc]->select any of the character from the specified characters in the square brackets
+(x | y)->any of the alternative seperated by the |. alternative is of any data type.
+we can specify the character set with the help of any method but for string we have to use the second method only.

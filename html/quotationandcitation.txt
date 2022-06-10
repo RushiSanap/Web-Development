@@ -1,0 +1,6 @@
+<blockquotes>	defines a section that is quoted from another source
+<q>		defines a short quotations
+<abbr>		defines an abbreviation or an acronym like HTML, CSS, Mr.
+<address>	defines the contact info for the author/owner of a document or an article.
+<bdo>		defines a text direction
+<cite>		defines the title of the work
