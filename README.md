@@ -1,2 +1,2 @@
 # Web-Development
-learned the basic concepts of web development along with CSS, HTML and JAVASCRIPT
+learned CSS, HTML and JAVASCRIPT for the frontend purpose
